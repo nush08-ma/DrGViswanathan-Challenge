@@ -32,4 +32,4 @@ As a first-year computer science student, I am leveraging this curriculum to bui
 3. **Clean Version Control:** Pushing code daily to maintain an active open-source footprint for recruiter evaluation.
 
 ---
-Connect with me on [LinkedIn](YOUR_LINKEDIN_PROFILE_URL) to track my tech updates! 🌟
+Connect with me on [LinkedIn](https://www.linkedin.com/in/anushka-mathur-a2a8b42ba/?skipRedirect=true) to track my tech updates! 🌟
