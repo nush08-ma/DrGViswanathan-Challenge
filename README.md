@@ -22,7 +22,7 @@ As a first-year computer science student, I am leveraging this curriculum to bui
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **July 25** | June 7, 2026 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com) | Arrays & Math | Range-based loops paired with iterative division (`/ 10`) handling `0` edge cases. | [View Code](./Day01_Find_Numbers_Even_Digits.cpp) |
 | **July 26** | June 7, 2026 | [412. FizzBuzz](https://leetcode.com) | Simulation | Modulo operations (`% 3`, `% 5`) paired with dynamic C++ index-offsets (`i - 1`). | [View Code](./Day01_FizzBuzz.cpp) |
-| **July 27** | *Upcoming* | [125. Valid Palindrome](https://leetcode.com) | Strings | Two-pointer approach filtering non-alphanumeric characters. | *Pending* |
+| **July 27** | *Upcoming* | [125. Valid Palindrome](https://leetcode.com) | Strings | Two-pointer approach filtering non-alphanumeric characters. |  [View Code](./Day02_Valid_Palindrome.cpp) |
 
 ---
 
