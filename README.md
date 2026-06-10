@@ -26,7 +26,7 @@ As a first-year computer science student, I am leveraging this curriculum to bui
 | **July 27** | June 8, 2026 | [125. Valid Palindrome](https://leetcode.com) | Strings & Two-Pointers | **0 ms (Beats 100%)** in-place Two-Pointer approach tracking inward bounds. | [View Code](./Day02_Valid_Palindrome.cpp) |
 | **July 28** | June 10, 2026 | [1. Two Sum](https://leetcode.com) | Arrays & Hashing | **0 ms (Beats 100%)** single-pass Hash Map solution in Python & C++. Explored iterator pointer constraints in C++. | [C++ Code](./Day03_Two_sum.cpp) <br> [Python Code](./Day03_Two_Sum.py) |
 | **July 29** | June 11,2026 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | Hash table , Map , strings|  backward-traversal algorithm | [View Code](./Day04_Roman_to_Integer.cpp) |
-| Extra | June 10, 2026 | [53. Maximum Subarray](https://leetcode.com) | Arrays (Kadane's) | **0 ms (Beats 100%)** implementation of Kadane's Algorithm learned via Apna College to find the max subarray sum in $O(N)$ time. | [View Code](./Maximum_Subarray.cpp) |
+| Extra | June 10, 2026 | [53. Maximum Subarray](https://leetcode.com) | Arrays (Kadane's) | **0 ms (Beats 100%)** implementation of Kadane's Algorithm learned via Apna College to find the max subarray sum in $O(N)$ time. | [View Code](./Maximum_subarray.cpp) |
 ---
 
 ## 📈 Engineering Commitments
