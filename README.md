@@ -9,7 +9,7 @@ As a first-year computer science student, I am leveraging this curriculum to bui
 ## 🛠️ Tech Stack & Environment
 * **Language:** C++ (Standard Template Library - STL)
 * **Code Editor:** Visual Studio Code (Local Compilation & Testing)
-* **Platform:** LeetCode
+* **Platform:** LeetCode, CodeForces, VS Code,Dev-C++
 * **Core Concepts:** Arrays, Simulation, Modulo Math, Bit Manipulation
 
 ---
