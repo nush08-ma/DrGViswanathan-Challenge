@@ -29,7 +29,8 @@ As a first-year computer science student, I am leveraging this curriculum to bui
 | **Extra** | June 11, 2026 | [53. Maximum Subarray](https://leetcode.com) | Arrays (Kadane's) | **0 ms (Beats 100%)** implementation of Kadane's Algorithm learned via Apna College to find the max subarray sum in $O(N)$ time. | [View Code](./Maximum_subarray.cpp) |
 | **July 30** | June 13, 2026 | [20. Valid Parentheses](https://leetcode.com) | Stacks (LIFO) | Leveraged `std::stack` mechanisms learned from Apna College to dynamically match brackets in $O(n)$ time. Achieved 0 ms (100%). | [View Code](./Day05_Valid_Parentheses.cpp) |
 | **July 31** | June 14,2026| [4A. Watermelon](https://codeforces.com) | Math / Logic | Implemented conditional checks to split an even weight into positive even parts. Handled edge case 2. Achieved 62 ms. | [View Code](./Day06_Watermelon.cpp) |
-
+| **Aug 1** | June 17, 2026 | [71A. Way Too Long Words](https://codeforces.com) | Strings | Compressed long words using conditional checks and structural index positioning. Achieved 46 ms. | [View Code](./Day07_Way_too_long_words.cpp) |
+| **(Extra)** | June 17, 2026 | [121. Best Time to Buy and Sell Stock](https://leetcode.com) | Arrays / Greedy | Independently formulated a single-pass tracking logic to yield an optimal $O(n)$ time solution. Achieved 0 ms (100%). | [View Code](./Buy_and_sell.cpp) |
 
 ---
 
