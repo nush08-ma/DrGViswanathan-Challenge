@@ -31,6 +31,9 @@ As a first-year computer science student, I am leveraging this curriculum to bui
 | **July 31** | June 14,2026| [4A. Watermelon](https://codeforces.com) | Math / Logic | Implemented conditional checks to split an even weight into positive even parts. Handled edge case 2. Achieved 62 ms. | [View Code](./Day06_Watermelon.cpp) |
 | **Aug 1** | June 17, 2026 | [71A. Way Too Long Words](https://codeforces.com) | Strings | Compressed long words using conditional checks and structural index positioning. Achieved 46 ms. | [View Code](./Day07_Way_too_long_words.cpp) |
 | **(Extra)** | June 17, 2026 | [121. Best Time to Buy and Sell Stock](https://leetcode.com) | Arrays / Greedy | Independently formulated a single-pass tracking logic to yield an optimal $O(n)$ time solution. Achieved 0 ms (100%). | [View Code](./Buy_and_sell.cpp) |
+| **Aug 2** | June 18, 2026 | [231A. Team](https://codeforces.com) | Implementation / STL | Applied `std::array` alongside `std::count` to tally problem choices cleanly. | [View Code](./Day08_Team.cpp) |
+| **Aug 3** | june 18, 2026 | [158A. Next Round](https://codeforces.com) | Implementation / Vectors | Handled index thresholds dynamically via `std::vector` and multi-condition rules. | [View Code](./Day08_Next_Round.cpp) |
+
 
 ---
 
